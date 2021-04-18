@@ -11,7 +11,7 @@ Louise would like to know how different campaigns fared in relation to their lau
 ![](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-
+![](Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
