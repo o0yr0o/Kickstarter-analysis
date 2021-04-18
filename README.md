@@ -8,7 +8,7 @@ Louise would like to know how different campaigns fared in relation to their lau
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![](Reources/Theater_Outcomes_vs_Launch.png)
+![](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
