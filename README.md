@@ -8,8 +8,8 @@ Louise would like to know how different campaigns fared in relation to their lau
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
-The bar chart shows
+![](Resources/Theater_Outcomes_vs_Launch.png)\
+The line chart shows how the outcomes 
 
 
 ### Analysis of Outcomes Based on Goals
