@@ -9,8 +9,8 @@ Louise would like to know how different campaigns fared in relation to their lau
 
 ### Analysis of Outcomes Based on Launch Date
 ![](Resources/Theater_Outcomes_vs_Launch.png)\
-The line graph above shows the number of successful, failed, or cancelled campaigns in the _theater category_ based on their launch date.\
-
+The line graph above shows the number of successful, failed, or cancelled campaigns in the theater category based on their launch date through 2009 to 2017.\
+Overall, more theaters have succeeded in meeting their goals, and especially high in May.
 
 ### Analysis of Outcomes Based on Goals
 ![](Resources/Outcomes_vs_Goals.png)\
