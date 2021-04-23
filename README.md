@@ -14,8 +14,10 @@ Overall, more theaters have succeeded in meeting their goals, and especially hig
 
 ### Analysis of Outcomes Based on Goals
 ![](Resources/Outcomes_vs_Goals.png)\
-The line graph above illustrates information on the percentage of outcomes based on success, failure, and cancellation. Furthermore, the subcategories are limited to plays.\
-From the graph we can see that there are no plays has been cancelled. The percentage of successful are higher in the small goal range, and the highest successful rate is in the smallest range of goal. We can also see that there are none of the plays managed to achieve their goals between $45,000 and $49,999. However during the percentage of successful are the same between the range 35,000 to 39,999 and 40,000 to 44,999.\
+The line graph above illustrates information on the percentage of outcomes based on success, failure, and cancellation. Furthermore, the subcategories are limited to plays.
+
+From the graph we can see that there are no plays has been cancelled. The percentage of successful are higher in the small goal range, and the highest successful rate is in the smallest range of goal. We can also see that there are none of the plays managed to achieve their goals between $45,000 and $49,999. However during the percentage of successful are the same between the range 35,000 to 39,999 and 40,000 to 44,999.
+
 Overall, the percentage of successful is delclining while the range of the goal are increasing.
 
 ### Challenges and Difficulties Encountered
