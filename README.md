@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise would like to know how different campaigns fared in relation to their launch dates and their funding goals.
+Louise would like to know how the different campaigns relate to each other in terms of their launch dates and funding goals.
 
 ## Analysis and Challenges
 
