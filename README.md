@@ -38,3 +38,7 @@ During this assignment, the challenge I found was that it was easy to miss or mi
 
 ### Limitations of the Dataset and Recommendations
 In the Analysis of Outcomes based on Goals, we only know the percentages of success, failure, and cancellation based on different fundraising range. But we need to know the number of successful, failed and cancelled to help us better understand in which fundraising ranges more people are willing to raise funds. We can use a bar graph to visualize it more clearly.
+
+![](Resources/Outcomes_Based_on_Goals.png)
+
+From the bar graph above, we found out that there are more people willing to fundraise in the range between $1,000 to $4,999. This may tell us that most people think it is enough to make a play in this fund range.
