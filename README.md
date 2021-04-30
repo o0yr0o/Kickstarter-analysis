@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise would like to know how the different campaigns relate to each other in terms of their launch dates and funding goals.
+Louise would like to know how the different fundraising campaigns relate to each other in terms of their launch dates and fundraising goals. First, we can analyze the relationship between different theaters based on their release months, such as whether the month is associated with success in meeting fundraising goals. Secondly, we analyze the relationship based on different fundraising goals. We will divide the fundraising goals into different ranges to analyze the relationship between different fundraising target ranges and fundraising success rate.
 
 ## Analysis and Challenges
 
@@ -10,7 +10,7 @@ Louise would like to know how the different campaigns relate to each other in te
 
 The line graph above shows the number of successful, failed, or cancelled campaigns in the theater category based on their launch month through 2009 to 2017.
 
-By comparing successful, failed and canceled theater, we find that number of theater successfully meeting their goal are the greatest based on their lauch dates. The number of successful theatres began to rise until it peaked in May, when 111 theatres had a successful release. Then the number began to decline slowly until December. To be specific, theaters launched at May has the greatest number of successfully meeting the goals.
+By comparing successful, failed and canceled theater, we find that number of theater successfully meeting their goals are the greatest based on their lauch dates. The number of successful theatres began to rise until it peaked in May, when 111 theatres had a successful release. Then the number began to decline slowly until December. To be specific, theaters launched in May has the greatest number of successfully achieving the goals. Furthermore, in June, July and August, the number of successful fundraising was higher than average. This may be due to the season. May to August is summer and there will be summer holidays, which are the peak seasons. Compared with winters, more people will go out for activities, so more theater fundraising campaign have succeffully raised funds during this period.
 
 By contrast, the number of failed theaters fluctuated less than the number of successful theaters. The number of cancellations each year is about the same. From 2009 to 2017, no more than 10 theaters were canceled based on the launch month. 
 
@@ -28,14 +28,13 @@ Overall, the percentage of successful is declining while the range of the goal a
 
 ## Results
 
-1. What are two conclusions you can draw about the Outcomes based on Launch Date?
-   - The number of successful theaters that meeting their goals are the greatest, especially the number of theaters successfully launched in May are the highest.
+### Conclusions
+1. The two conclusions I found about the Outcomes based on Launch Date are:
+   - The number of successful theaters that meeting their goals are the greatest, especially the number of theaters successfully launched in May to August are higher than average of the year.
    - The number of failed and cancelled theatres fluctuated more steadily than that of successful theatres.
 
-2. What can you conclude about the Outcomes based on Goals?
+2. The conclusion about the Outcomes based on Goals is: 
    - As the range of goals increased, the percentage of success decreased.
 
-3. What are some limitations of this dataset?
-   - 
+### Limitations of the Dataset and Recommendations
 
-4. What are some other possible tables and/or graphs that we could create?
