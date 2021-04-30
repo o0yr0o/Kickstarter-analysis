@@ -17,11 +17,11 @@ By contrast, the number of failed theaters fluctuated less than the number of su
 ### Analysis of Outcomes Based on Goals
 ![](Resources/Outcomes_vs_Goals.png)
 
-The line graph above illustrates information on the percentage of outcomes based on success, failure, and cancellation. Furthermore, the subcategories are limited to plays.
+The line graph above illustrates information on the percentage of outcomes based on success, failure, and cancellation. Also, the subcategories are limited to plays.
 
-From the graph we can see that there are no plays has been cancelled. The highest successful rate is in the smallest range of goal, and it is declining until the range of $25,000 to $29,999. Then, the percentage of successful starts to increase from that range. We can also see that there are none of the plays managed to achieve their goals between $45,000 and $49,999.
+From the graph we can see that there are no plays has been cancelled. The highest success rate is within the minimum target range and has been declining until it is betweeen the range of $25,000 to $29,999. Therefore, small range of fundraising goals are easier to achieve. As the range of fundraising goals increases, the success rate will slowly decrease. Then, the percentage of successful starts to increase from that range. This may be because some high-quality plays require more fundraising, and people are willing to raise money for their qualities. We can also see that there are none of the plays managed to achieve their goals between $45,000 and $49,999 because the fundraising goal are way to high.
 
-Overall, the percentage of successful is declining while the range of the goal are increasing.
+Overall, the small target range has the highest success rate and the lowest failure rate, but as the range of fundraising increases, the success rate will slowly decrease.
 
 ### Challenges and Difficulties Encountered
 - When entering the goal range, it is very easy to missing one or two range.
