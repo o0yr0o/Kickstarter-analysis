@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise would like to know how the different fundraising campaigns relate to each other in terms of their launch dates and fundraising goals. First, we can analyze the relationship between different theaters based on their release months, such as whether the month is associated with success in meeting fundraising goals. Secondly, we analyze the relationship based on different fundraising goals. We will divide the fundraising goals into different ranges to analyze the relationship between different fundraising target ranges and fundraising success rate.
+Louise would like to know how the different fundraising campaigns relate to each other in terms of their launch dates and fundraising goals. Firstly, we can analyze the relationship between different theaters based on their release months, such as whether the month is associated with success in meeting fundraising goals. Secondly, we analyze the relationship based on different fundraising goals. We will divide the fundraising goals into different ranges to analyze the relationship between different fundraising target ranges and fundraising success rate.
 
 ## Analysis and Challenges
 
@@ -24,7 +24,7 @@ From the graph we can see that there are no plays has been cancelled. The highes
 Overall, the small target range has the highest success rate and the lowest failure rate, but as the range of fundraising increases, the success rate will slowly decrease.
 
 ### Challenges and Difficulties Encountered
-- When entering the goal range, it is very easy to missing one or two range.
+During this assignment, the challenge I found was that it was easy to miss or mistype the goal range when entering the goal range for Analysis of Outcomes Based on Goals, and I could not find a way to let excel automatically divide the range for us. So, if the data is large enoufh, this will greatly affect our speed and accuracy.
 
 ## Results
 
